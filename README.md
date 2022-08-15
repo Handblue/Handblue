@@ -24,8 +24,11 @@ I am curious.
 
 
 🤔 I am learning Python
+
 💻 Cyber Security   
+
 🐧 Linux
+
 ⚙️ blockchain
 
 
