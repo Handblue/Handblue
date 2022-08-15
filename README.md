@@ -23,4 +23,5 @@
 
 I have an NFT collection on Opensea. (A project made and designed for fun and learning. https://opensea.io/collection/angrystickmanclub)
 
+<img src="https://camo.githubusercontent.com/7ae41bb28ad0e117cf83df0b755cffc69120c60ba69eab3833324db72adf612c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d3030373339362e7376673f267374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/JAVA-007396.svg?&amp;style=flat&amp;logo=java&amp;logoColor=white" style="max-width: 100%;">
 
