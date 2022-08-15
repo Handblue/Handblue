@@ -55,6 +55,8 @@ I am curious.
 I have an NFT collection on Opensea. (A project made and designed for fun and learning. https://opensea.io/collection/angrystickmanclub)-
 </details> 
 
+<br />
+<br />
 📬 Find me at
 <br />
 <br />
