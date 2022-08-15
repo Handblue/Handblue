@@ -7,7 +7,6 @@
 📬 Find me at
 
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/telegram.svg" align="left" />][Telegram]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/whatsApp.svg" align="left" />][WhatsApp]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />][Youtube]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][Linkedin]
 
