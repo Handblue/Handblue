@@ -53,4 +53,4 @@ I have an NFT collection on Opensea. (A project made and designed for fun and le
 
 
 
-<img src="https://media.giphy.com/media/sSmxfWnEVxtWU/giphy.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/sSmxfWnEVxtWU/giphy.gif" align="center" width="400" height="250">
