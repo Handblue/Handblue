@@ -6,11 +6,12 @@
 
 📬 Find me at
 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/Mail.svg align="left" />][Mail]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/Telegram.svg align="left" />][Telegram]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/WhatsApp.svg align="left" />][WhatsApp]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/Youtube.svg align="left" />][Youtube]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/Linkedin.svg align="left" />][Linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/Mail.svg" align="left" />][Mail]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/Telegram.svg" align="left" />][Telegram]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/WhatsApp.svg" align="left" />][WhatsApp]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/Youtube.svg" align="left" />][Youtube]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/Linkedin.svg" align="left" />][Linkedin]
+
 
 <br />
 <br />
