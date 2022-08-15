@@ -14,14 +14,20 @@
 <a href="hidayetemiryigit@gmail.com"><img src="https://camo.githubusercontent.com/bed6accfec75df6f313754b2ca977ccf6a4283baf04eecef7d08603085917259/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d61726461616b6465726540676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=hidayetemiryigit@gmail.com" style="max-width: 100%;"></a>
 <a href="https://www.youtube.com/channel/UCPN1FbcaizQGyb7Bfn7VY4g" rel="nofollow"><img src="https://camo.githubusercontent.com/f553a21109e37cdbb80d6f8038a148c9bd7bc45ae1e7fc602c16a41f0d8967b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e796f75747562652e636f6d2f6368616e6e656c2f55434f4d4155454e33417850413871736f5a533239336667" alt="Youtube Badge" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;link=https://www.youtube.com/channel/UCPN1FbcaizQGyb7Bfn7VY4g" style="max-width: 100%;"></a>
 
+Hi, I'm Emir.
+Cybersecurity, artificial intelligence and blockchain
+on the technologies
+willing and curious to develop
+I am. From my childhood
+technology and electronic devices
+I am curious.
 
-🤔 I am learning Python.
 
+🤔 I am learning Python
 💻 Cyber Security   
-
 🐧 Linux
-
 ⚙️ blockchain
+
 
 <br />
 <summary>:rocket: Technologies I Use</summary>
