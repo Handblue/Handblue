@@ -32,9 +32,16 @@
 ### 
 
 <img src="https://camo.githubusercontent.com/00eb446e946546152a87ea8c8eb949f62b70d8dd3d6736c8140566dc9673c108/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653434f44452d3030374143432e7376673f267374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465" alt="VSCode" data-canonical-src="https://img.shields.io/badge/VSCODE-007ACC.svg?&amp;style=flat&amp;logo=visual-studio-code" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/63531e6e525787b225144a0aa045de39146c21d2eeb077e0920e58bb1d47f30e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50484f544f53484f502d3331413846462e7376673f267374796c653d666c6174266c6f676f3d61646f62652d70686f746f73686f70266c6f676f436f6c6f723d7768697465" alt="PHOTOSHOP" data-canonical-src="https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&amp;style=flat&amp;logo=adobe-photoshop&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/453a13c35e7ae9618011a07a02b4e225e6fdfd00cb05fc089333ac698b8102fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f424c4f434b434841494e2d3132314433332e7376673f267374796c653d666c6174266c6f676f3d626c6f636b636861696e2d646f742d636f6d266c6f676f436f6c6f723d7768697465" alt="blok zinciri" data-canonical-src="https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&amp;style=flat&amp;logo=blockchain-dot-com&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/6090bd476fa66dc70be3d482859b557ecfbe17c935c4ec7fb5e2acfe519580e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f424954434f494e2d3037363941442e7376673f267374796c653d666c6174266c6f676f3d626974636f696e266c6f676f436f6c6f723d626c61636b" alt="Bitcoin" data-canonical-src="https://img.shields.io/badge/BITCOIN-0769AD.svg?&amp;style=flat&amp;logo=bitcoin&amp;logoColor=black" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/11e2b4d73cf6a677db0d7ded1f4091312f98ee7cc7b92233c8228db8490826b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f455448455245554d2d3343334333442e7376673f267374796c653d666c6174266c6f676f3d657468657265756d266c6f676f436f6c6f723d7768697465" alt="Ethereum" data-canonical-src="https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&amp;style=flat&amp;logo=ethereum&amp;logoColor=white" style="max-width: 100%;">
+  
+  
+</details> 
+<details>  <summary>:bulb: GitHub Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Handblue&theme=radical" >
 </details> 
 
 
 
+<details>  <summary>:octocat: Just Special Info</summary>
 I have an NFT collection on Opensea. (A project made and designed for fun and learning. https://opensea.io/collection/angrystickmanclub)
+</details> 
 
