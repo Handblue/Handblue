@@ -20,7 +20,7 @@
 
 ⚙️ blockchain
 
-<summary>:rocket: Technologies I Use</summary>
+<details>  <summary>:rocket: Technologies I Use</summary>
 
 
 <img src="https://camo.githubusercontent.com/7ae41bb28ad0e117cf83df0b755cffc69120c60ba69eab3833324db72adf612c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d3030373339362e7376673f267374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/JAVA-007396.svg?&amp;style=flat&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/5f98fc2a479da557fcdfec2705c2848886001ee7ac622f779ae6972edaf5aa22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f505954484f4e2d3337373641422e7376673f267374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="piton" data-canonical-src="https://img.shields.io/badge/PYTHON-3776AB.svg?&amp;style=flat&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/233d5f09ea5993d7a0de965379867d8c45d2c6ae071f579f0489f2a395d11ea3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939432e7376673f267374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="Cpp" data-canonical-src="https://img.shields.io/badge/C++-00599C.svg?&amp;style=flat&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/f0d1739df82834523b9d06bd21ee96ac4431b419f85c4d283e4a624563854a14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41524455494e4f2d3030393739442e7376673f267374796c653d666c6174266c6f676f3d61726475696e6f266c6f676f436f6c6f723d7768697465" alt="Arduino" data-canonical-src="https://img.shields.io/badge/ARDUINO-00979D.svg?&amp;style=flat&amp;logo=arduino&amp;logoColor=white" style="max-width: 100%;">
@@ -33,9 +33,17 @@
 
 <img src="https://camo.githubusercontent.com/00eb446e946546152a87ea8c8eb949f62b70d8dd3d6736c8140566dc9673c108/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653434f44452d3030374143432e7376673f267374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465" alt="VSCode" data-canonical-src="https://img.shields.io/badge/VSCODE-007ACC.svg?&amp;style=flat&amp;logo=visual-studio-code" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/63531e6e525787b225144a0aa045de39146c21d2eeb077e0920e58bb1d47f30e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50484f544f53484f502d3331413846462e7376673f267374796c653d666c6174266c6f676f3d61646f62652d70686f746f73686f70266c6f676f436f6c6f723d7768697465" alt="PHOTOSHOP" data-canonical-src="https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&amp;style=flat&amp;logo=adobe-photoshop&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/453a13c35e7ae9618011a07a02b4e225e6fdfd00cb05fc089333ac698b8102fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f424c4f434b434841494e2d3132314433332e7376673f267374796c653d666c6174266c6f676f3d626c6f636b636861696e2d646f742d636f6d266c6f676f436f6c6f723d7768697465" alt="blok zinciri" data-canonical-src="https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&amp;style=flat&amp;logo=blockchain-dot-com&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/6090bd476fa66dc70be3d482859b557ecfbe17c935c4ec7fb5e2acfe519580e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f424954434f494e2d3037363941442e7376673f267374796c653d666c6174266c6f676f3d626974636f696e266c6f676f436f6c6f723d626c61636b" alt="Bitcoin" data-canonical-src="https://img.shields.io/badge/BITCOIN-0769AD.svg?&amp;style=flat&amp;logo=bitcoin&amp;logoColor=black" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/11e2b4d73cf6a677db0d7ded1f4091312f98ee7cc7b92233c8228db8490826b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f455448455245554d2d3343334333442e7376673f267374796c653d666c6174266c6f676f3d657468657265756d266c6f676f436f6c6f723d7768697465" alt="Ethereum" data-canonical-src="https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&amp;style=flat&amp;logo=ethereum&amp;logoColor=white" style="max-width: 100%;">
   
+  
+</details> 
 <details>  <summary>:bulb: GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=Handblue&theme=radical" >
 </details> 
+
+</details> 
+<details>  <summary>:zap: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Handblue&layout=compact" >
+</details> 
+
 
 
 
