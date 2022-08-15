@@ -13,8 +13,11 @@
 
 
 🤔 I am learning Python.
-💻 Cyber Security                                                          
+
+💻 Cyber Security   
+
 🐧 Linux
+
 ⚙️ blockchain
 
 
