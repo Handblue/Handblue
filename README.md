@@ -23,5 +23,4 @@
 
 I have an NFT collection on Opensea. (A project made and designed for fun and learning. https://opensea.io/collection/angrystickmanclub)
 
-<a href="https://github.com/Handblue"><img src="https://camo.githubusercontent.com/2bcd6c97b54722cdc7aa2dad8580b796c27470fb40db164d2c440b54f8c3275d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f546572616279746531373f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/followers/Handblue?style=social" style="max-width: 100%;"></a>
 
