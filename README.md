@@ -52,7 +52,7 @@ I am curious.
 
 
 <details>  <summary>:octocat: Just Special Info</summary>
-I have an NFT collection on Opensea. (A project made and designed for fun and learning. https://opensea.io/collection/angrystickmanclub)-
+I have an NFT collection on Opensea. (A project made and designed for fun and learning. https://opensea.io/collection/angrystickmanclub )-
 </details> 
 
 <br />
