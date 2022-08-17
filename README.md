@@ -28,8 +28,8 @@ I am curious.
 <br />
 
 
-<img src="https://camo.githubusercontent.com/7ae41bb28ad0e117cf83df0b755cffc69120c60ba69eab3833324db72adf612c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d3030373339362e7376673f267374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/JAVA-007396.svg?&amp;style=flat&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-<img src="https://camo.githubusercontent.com/5f98fc2a479da557fcdfec2705c2848886001ee7ac622f779ae6972edaf5aa22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f505954484f4e2d3337373641422e7376673f267374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="piton" data-canonical-src="https://img.shields.io/badge/PYTHON-3776AB.svg?&amp;style=flat&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/233d5f09ea5993d7a0de965379867d8c45d2c6ae071f579f0489f2a395d11ea3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939432e7376673f267374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="Cpp" data-canonical-src="https://img.shields.io/badge/C++-00599C.svg?&amp;style=flat&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/f0d1739df82834523b9d06bd21ee96ac4431b419f85c4d283e4a624563854a14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41524455494e4f2d3030393739442e7376673f267374796c653d666c6174266c6f676f3d61726475696e6f266c6f676f436f6c6f723d7768697465" alt="Arduino" data-canonical-src="https://img.shields.io/badge/ARDUINO-00979D.svg?&amp;style=flat&amp;logo=arduino&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/7ae41bb28ad0e117cf83df0b755cffc69120c60ba69eab3833324db72adf612c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d3030373339362e7376673f267374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/JAVA-007396.svg?&amp;style=flat&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/5f98fc2a479da557fcdfec2705c2848886001ee7ac622f779ae6972edaf5aa22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f505954484f4e2d3337373641422e7376673f267374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="piton" data-canonical-src="https://img.shields.io/badge/PYTHON-3776AB.svg?&amp;style=flat&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) 
+<img src="https://camo.githubusercontent.com/233d5f09ea5993d7a0de965379867d8c45d2c6ae071f579f0489f2a395d11ea3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939432e7376673f267374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="Cpp" data-canonical-src="https://img.shields.io/badge/C++-00599C.svg?&amp;style=flat&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/f0d1739df82834523b9d06bd21ee96ac4431b419f85c4d283e4a624563854a14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41524455494e4f2d3030393739442e7376673f267374796c653d666c6174266c6f676f3d61726475696e6f266c6f676f436f6c6f723d7768697465" alt="Arduino" data-canonical-src="https://img.shields.io/badge/ARDUINO-00979D.svg?&amp;style=flat&amp;logo=arduino&amp;logoColor=white" style="max-width: 100%;"> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 ### 
 
@@ -55,7 +55,10 @@ I am curious.
 <details>  <summary>:octocat: Just Special Info</summary>
 I have an NFT collection on Opensea. (A project made and designed for fun and learning. https://opensea.io/collection/angrystickmanclub )-
 </details> 
-
+<br />
+<details>  <summary>🏆 GitHub Trophies</summary>
+![](https://github-profile-trophy.vercel.app/?username=Handblue&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+</details> 
 <br />
 <br />
 📬 Find me at
@@ -71,3 +74,6 @@ I have an NFT collection on Opensea. (A project made and designed for fun and le
 
 
 <img src="https://media.giphy.com/media/sSmxfWnEVxtWU/giphy.gif" align="center" width="400" height="250">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Handblue&label=Profile%20views&color=green&style=flat" alt="Handblue" /> </p>
