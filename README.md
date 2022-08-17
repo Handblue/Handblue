@@ -55,9 +55,7 @@ I am curious.
 <details>  <summary>:octocat: Just Special Info</summary>
 I have an NFT collection on Opensea. (A project made and designed for fun and learning. https://opensea.io/collection/angrystickmanclub )-
 </details> 
-<details>  <summary>🏆 GitHub Trophies</summary>
-<img src="https://github-profile-trophy.vercel.app/?username=Handblue&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" >
-</details> 
+
 <br />
 <br />
 📬 Find me at
