@@ -14,9 +14,11 @@ technology and electronic devices
 I am curious.
 
 
-🤔 I am learning Python
+🤔 I am learning Kotlin and Java
 
-💻 Cyber Security   
+💪🏻 Python
+
+👨‍💻 Cyber Security   
 
 🐧 Linux
 
