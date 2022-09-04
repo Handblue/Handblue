@@ -60,7 +60,7 @@ I have an NFT collection on Opensea. (A project made and designed for fun and le
 
 <br />
 <br />
-📬 Find me at
+📬 Find me
 <br />
 <br />
 
