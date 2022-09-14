@@ -6,12 +6,10 @@
 
 <br />
 
-Hi, I'm Emir.
-Cybersecurity, artificial intelligence and blockchain
-myself on technologies
-I want to improve. From my childhood
-technology and electronic devices
-I am curious.
+Hello, I'm Emir.
+Cybersecurity, python and blockchain
+myself about technologies
+I want to improve. This is my passion.
 
 
 💪🏻 Python
