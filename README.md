@@ -1,7 +1,5 @@
 <img src="https://media.giphy.com/media/3oEjHECc1GftirnHZm/giphy.gif" align="right" width="400" height="250">
 
-### Hey, Everybody, What's Up :fire:
-
 ## "If you give up your dreams, there's nothing left"
 
 <br />
