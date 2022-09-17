@@ -11,6 +11,7 @@ Cybersecurity, python and blockchain
 myself about technologies
 I want to improve. This is my passion.
 
+👻 Learning Frontend 
 
 💪🏻 Python
 
