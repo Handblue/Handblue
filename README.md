@@ -69,7 +69,7 @@ I have an NFT collection on Opensea. (A project made and designed for fun and le
 
 
 
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" align="center" width="400" height="250">
+ <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" align="center" width="400" height="250">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Handblue&label=Profile%20views&color=green&style=flat" alt="Handblue" /> </p>
